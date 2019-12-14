@@ -1,0 +1,34 @@
+
+        body {
+            background-color: #F9FBFD;
+        }
+        .cust-box {
+            background-color: #ffffff;
+        }
+        .cust-border {
+            border: 2px dashed gray ;
+            border-radius: 5px;
+        }
+        .cust-btn {
+            font-size: 1.5em;
+            border-radius: 1em;
+        }
+        .btn-pwd {
+            background-color: #AF0808;
+            color: #FBFDF4;
+        }
+        .btn-copy {
+            background-color: #C0C7CF;
+            color: #FBFDF4;
+        }
+        .cust-textarea {
+            font-size: 1.5em;
+        }
+        @media (max-width: 576px) {
+            body .container {
+                width: 100%;
+                padding: 0;
+                margin: 0;
+            }
+        }
+    
